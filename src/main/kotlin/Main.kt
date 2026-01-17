@@ -17,6 +17,8 @@ fun main() {
     val str = "Hello, Kotlin!" // 编译器自动推断为 String 类型
     println("str: $str")
 
+    //
+
     /*
      * 数据类型
      * java有引用类型和基本类型
